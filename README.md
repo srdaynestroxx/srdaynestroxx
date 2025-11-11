@@ -3,6 +3,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://static.wikia.nocookie.net/03b2bdc4-ab0f-40b8-ab88-5eccbe81edeb/scale-to-width/755" />
 
 ***About me***
+
 I am a Web Application Development (DAW) student and I am currently halfway through my studies. I’m passionate about the world of web development and enjoy learning about front-end and back-end, creating small projects to keep improving my skills.
 I love learning new things, experimenting with different technologies, and developing creative and innovative ideas.
 
