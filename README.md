@@ -3,15 +3,12 @@
 <img align="right" width=300px alt="Unicorn" src="https://static.wikia.nocookie.net/03b2bdc4-ab0f-40b8-ab88-5eccbe81edeb/scale-to-width/755" />
 
 ***About me***
+I am a Web Application Development (DAW) student and I am currently halfway through my studies. I’m passionate about the world of web development and enjoy learning about front-end and back-end, creating small projects to keep improving my skills.
+I love learning new things, experimenting with different technologies, and developing creative and innovative ideas.
 
-I am a computer engineering student, c urrently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
+- I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+- Outside tech, I like🎮 playing videogames, 🎵 listening to music, and 📖 reading  books.
 - 📫 Reach out to me at: <a href="daymer2105@gmail.com">daymer2105@gmail.com</a>
 
 ## My Skills Include
