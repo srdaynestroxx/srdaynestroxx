@@ -9,7 +9,7 @@ I love learning new things, experimenting with different technologies, and devel
 
 - I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, I like🎮 playing videogames, 🎵 listening to music, and 📖 reading  books.
+- Outside tech, I like🎮 playing videogames, 🌟​anime , 🎵 listening to music, and 📖 reading  books.
 - 📫 Reach out to me at: <a href="daymer2105@gmail.com">daymer2105@gmail.com</a>
 
 ## My Skills Include
