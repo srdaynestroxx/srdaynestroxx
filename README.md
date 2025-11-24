@@ -23,7 +23,7 @@ I love learning new things, experimenting with different technologies, and devel
   
 </span>
 
-<h4> Navegator </h4>
+<h4> Navegators </h4>
 
  ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
