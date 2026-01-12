@@ -14,6 +14,8 @@ I love learning new things, experimenting with different technologies, and devel
 
 ## My Skills Include
 
+<img align="right" width=300px alt="Emporio" src="https://global.discourse-cdn.com/wanikanicommunity/original/3X/9/6/968da79129d087a977b866727cbc071c8f9d28e3.gif" />
+
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
