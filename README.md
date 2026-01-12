@@ -45,7 +45,7 @@ I love learning new things, experimenting with different technologies, and devel
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/that.mulato_/?hl=es">
+<a href= "https://www.instagram.com/its_dxyz/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
