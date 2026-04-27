@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Daymer Pineda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Emporio" src="https://media1.tenor.com/m/yCUabCuw1I4AAAAd/jojo-jjba.gif" />
+<img align="right" width=300px alt="Emporio" src="https://pin.it/5EM7bm4sA.gif" />
 
 ***About me***
 
