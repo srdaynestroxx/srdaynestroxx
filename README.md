@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Daymer Pineda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Emporio" src="https://pin.it/5EM7bm4sA" />
+<img align="right" width=300px alt="Emporio" src="https://64.media.tumblr.com/7ac49441828b75f175f656901656309e/tumblr_nvc6dx5gxH1qcbjtzo1_1280.gifv" />
 
 ***About me***
 
